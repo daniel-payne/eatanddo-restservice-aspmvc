@@ -1,0 +1,13 @@
+obj/
+bin/
+packages/
+Scripts/
+Properties/
+runREST.bat
+fonts/
+Web.Debug.config
+Web.Release.config
+Web.config
+WebService.csproj
+WebService.csproj.user
+System.Web.Providers.dll
